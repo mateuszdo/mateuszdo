@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Mateusz 👋
 
-<!--
-**mateuszdo/mateuszdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 3 years of commercial experience building React and Next.js applications, plus a 13-year background in high-stakes airport operations at Heathrow, Gatwick and London City.
 
-Here are some ideas to get you started:
+Most recently at Russell & Bromley, where I led a migration to a modern OSF React platform that lifted e-commerce performance by 20%, built reusable TypeScript component libraries that cut page load times by 15%, and worked closely with design and UX to ship conversion-focused interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3  
+**Backend:** Node.js (learning) · PHP · Python · MySQL · REST APIs  
+**Tooling:** Azure DevOps · Git · CI/CD · Figma  
+**Platforms:** Vercel · Supabase · Stripe · Clerk  
+
+---
+
+### 🚀 Projects
+
+- [E-Commerce Store](https://next-storefront-git-main-mateuszs-projects-4e99508b.vercel.app/)** — Full-stack Next.js store with auth, product management, Stripe checkout and admin dashboard
+- [AirOps Live](https://airops-live.vercel.app/) — Real-time ground handling dashboard modelled on actual turnaround workflow, built on my aviation background
+
+---
+
+### 🌱 Currently Learning
+
+Node.js · PostgreSQL · Express · REST API design
+
+---
+
+### 📫 Let's connect
+
+[LinkedIn](https://linkedin.com/in/mateuszdobrzynski) · dobrzynskimateusz@gmail.com
